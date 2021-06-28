@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
+  <h1 align="center">Abraham Lincoln G's Portfolio ✨</h1>
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
@@ -22,8 +22,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/abrahamlincolng/home?color=ffcc66&style=for-the-badge)](https://github.com/abrahamlincolng/star_book/issues)
 [![GitHub license](https://img.shields.io/github/license/abrahamlincolng/home?style=for-the-badge)](https://github.com/abrahamlincolng/abrahamlincolng/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abrahamlincolng?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/abrahamlincolng)
-
-[![Site preview](/public/social-image.png)](hytps://github.com/abrahamlincolng/abrahamlincolng.github.io)
 
 ## Table of Contents
 
